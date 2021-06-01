@@ -1,2 +1,2 @@
-# NLP_pyspark
+# NLP pyspark
 Spam detector using pyspark
